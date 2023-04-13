@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116962232727",
+    "project_id": "fir-app-6b327",
+    "storage_bucket": "fir-app-6b327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116962232727:android:dfdbc1c4ce288d0e73dcd2",
+        "android_client_info": {
+          "package_name": "com.example.morningfirebasedbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116962232727-k03gvk2gv0bg70mhh41ldib4inolbhuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBWVq-_Vuey4ArZ8ePq6mYufHlFCmIFjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116962232727-k03gvk2gv0bg70mhh41ldib4inolbhuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
